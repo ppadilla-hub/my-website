@@ -2,23 +2,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Projets",
     "section": "",
-    "text": "Built a machine learning model predicting churn\nTools: Python, Scikit-learn\n\nGitHub repository\n\n\n\n\nBuilt interactive charts using Python"
-  },
-  {
-    "objectID": "projects.html#customer-churn-prediction",
-    "href": "projects.html#customer-churn-prediction",
-    "title": "Projects",
-    "section": "",
-    "text": "Built a machine learning model predicting churn\nTools: Python, Scikit-learn\n\nGitHub repository"
-  },
-  {
-    "objectID": "projects.html#data-visualization-dashboard",
-    "href": "projects.html#data-visualization-dashboard",
-    "title": "Projects",
-    "section": "",
-    "text": "Built interactive charts using Python"
+    "text": "Mes projets\n\n\n\n\n\n&lt;h5 class=\"card-title\"&gt;Dashboard à l'aide de powerBI pour mon équipe de volley-ball&lt;/h5&gt;\n&lt;p class=\"card-text\"&gt;Mis à disposition au coach d'un dashboard intéractif permettant une meilleur visualisation des touches/points/fautes suivant le type d'action en fonction du match, du joueur ou des différents postes dans l'équipe.&lt;/p&gt;\n&lt;a href=\"https://github.com/ppadilla-hub/project1\" class=\"btn btn-primary\" target=\"_blank\"&gt;GitHub&lt;/a&gt;\n\n\n\n\n\n\n\n&lt;h5 class=\"card-title\"&gt;Réponse à des besoin du coach&lt;/h5&gt;\n&lt;p class=\"card-text\"&gt;Statistiques plus spécifique permettant une meilleur évaluation des joueurs lors des matchs.&lt;/p&gt;\n&lt;a href=\"https://github.com/ppadilla-hub/project2\" class=\"btn btn-primary\" target=\"_blank\"&gt;GitHub&lt;/a&gt;\n\n\n\n\n\n\n\n&lt;h5 class=\"card-title\"&gt;Visualisation en time series&lt;/h5&gt;\n&lt;p class=\"card-text\"&gt;Evolution de chaque type d'action au cours de la saison pour chaque joueur&lt;/p&gt;\n&lt;a href=\"https://github.com/ppadilla-hub/project3\" class=\"btn btn-primary\" target=\"_blank\"&gt;GitHub&lt;/a&gt;"
   },
   {
     "objectID": "cv.html",
