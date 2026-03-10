@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "&lt;div class=\"carousel-item active\"&gt;\n  &lt;img src=\"images/project1.png\" class=\"d-block w-100\" alt=\"Visualisation des touches/points/fautes suivant le type d'action en fonction du match, du joueur ou des différents postes dans l'équipe\"&gt;\n&lt;/div&gt;\n&lt;div class=\"carousel-item\"&gt;\n  &lt;img src=\"images/project2.png\" class=\"d-block w-100\" alt=\"Statistiques plus spécifique permettant une meilleur évaluation des joueurs lors des matchs.\"&gt;\n&lt;/div&gt;\n&lt;div class=\"carousel-item\"&gt;\n  &lt;img src=\"images/project3.png\" class=\"d-block w-100\" alt=\"Evolution de chaque type d'action au cours de la saison pour chaque joueur.\"&gt;\n&lt;/div&gt;\n\n  Previous    Next"
-  },
-  {
-    "objectID": "projects.html#project-1",
-    "href": "projects.html#project-1",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "&lt;div class=\"carousel-item active\"&gt;\n  &lt;img src=\"images/project1.png\" class=\"d-block w-100\" alt=\"Visualisation des touches/points/fautes suivant le type d'action en fonction du match, du joueur ou des différents postes dans l'équipe\"&gt;\n&lt;/div&gt;\n&lt;div class=\"carousel-item\"&gt;\n  &lt;img src=\"images/project2.png\" class=\"d-block w-100\" alt=\"Statistiques plus spécifique permettant une meilleur évaluation des joueurs lors des matchs.\"&gt;\n&lt;/div&gt;\n&lt;div class=\"carousel-item\"&gt;\n  &lt;img src=\"images/project3.png\" class=\"d-block w-100\" alt=\"Evolution de chaque type d'action au cours de la saison pour chaque joueur.\"&gt;\n&lt;/div&gt;\n\n  Previous    Next"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
