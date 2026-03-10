@@ -124,7 +124,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#mes-projects" id="toc-mes-projects" class="nav-link active" data-scroll-target="#mes-projects">Mes Projects</a></li>
+  <li><a href="#mes-projets" id="toc-mes-projets" class="nav-link active" data-scroll-target="#mes-projets">Mes Projets</a>
+  <ul class="collapse">
+  <li><a href="#dashboard-powerbi" id="toc-dashboard-powerbi" class="nav-link" data-scroll-target="#dashboard-powerbi">Dashboard PowerBI</a></li>
+  <li><a href="#project-1" id="toc-project-1" class="nav-link" data-scroll-target="#project-1">Project 1</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -134,21 +138,44 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="mes-projects" class="level1">
-<h1>Mes Projects</h1>
+<section id="mes-projets" class="level1">
+<h1>Mes Projets</h1>
+<section id="dashboard-powerbi" class="level2">
+<h2 class="anchored" data-anchor-id="dashboard-powerbi">Dashboard PowerBI</h2>
 <div class="row">
-<div class="col-md-4">
-<p><img src="images/project1.png" class="img-fluid" style="width:100.0%"> ### Dashboard à l’aide de powerBI pour mon équipe de volley-ball Mise à disposition au coach d’un dashboard intéractif permettant une meilleur visualisation des touches/points/fautes suivant le type d’action en fonction du match, du joueur ou des différents postes dans l’équipe. <a href="https://github.com/ppadilla-hub/project1">GitHub</a></p>
+<section id="dashboard-pour-mon-équipe-de-volleyball" class="level3 col-md-4">
+<h3 class="anchored" data-anchor-id="dashboard-pour-mon-équipe-de-volleyball">Dashboard pour mon équipe de volleyball</h3>
+<p><img src="images/project1.png" class="img-fluid" style="width:100.0%"> Mise à disposition au coach d’un dashboard intéractif permettant une meilleur visualisation des touches/points/fautes suivant le type d’action en fonction du match, du joueur ou des différents postes dans l’équipe.</p>
+</section>
+<section id="réponse-à-des-besoin-du-coach" class="level3 col-md-4">
+<h3 class="anchored" data-anchor-id="réponse-à-des-besoin-du-coach">Réponse à des besoin du coach</h3>
+<p><img src="images/project2.png" class="img-fluid" style="width:100.0%"> Statistiques plus spécifique permettant une meilleur évaluation des joueurs lors des matchs.</p>
+</section>
+<section id="visualisation-en-time-series" class="level3 col-md-4">
+<h3 class="anchored" data-anchor-id="visualisation-en-time-series">Visualisation en time series</h3>
+<p><img src="images/project3.png" class="img-fluid" style="width:100.0%"> Evolution de chaque type d’action au cours de la saison pour chaque joueur.</p>
+</section>
 </div>
-<div class="col-md-4">
-<p><img src="images/project2.png" class="img-fluid" style="width:100.0%"> ### Réponse à des besoin du coach Statistiques plus spécifique permettant une meilleur évaluation des joueurs lors des matchs. <a href="https://github.com/ppadilla-hub/project2">GitHub</a></p>
+</section>
+<section id="project-1" class="level2">
+<h2 class="anchored" data-anchor-id="project-1">Project 1</h2>
+<div id="carouselProject1" class="carousel slide" data-bs-ride="carousel">
+<div class="carousel-inner">
+<pre><code>&lt;div class="carousel-item active"&gt;
+  &lt;img src="images/project1.jpg" class="d-block w-100" alt="Visualisation des touches/points/fautes suivant le type d'action en fonction du match, du joueur ou des différents postes dans l'équipe"&gt;
+&lt;/div&gt;
+&lt;div class="carousel-item"&gt;
+  &lt;img src="images/project2.jpg" class="d-block w-100" alt="Statistiques plus spécifique permettant une meilleur évaluation des joueurs lors des matchs."&gt;
+&lt;/div&gt;
+&lt;div class="carousel-item"&gt;
+  &lt;img src="images/project3.jpg" class="d-block w-100" alt="Evolution de chaque type d'action au cours de la saison pour chaque joueur."&gt;
+&lt;/div&gt;</code></pre>
 </div>
-<div class="col-md-4">
-<p><img src="images/project3.png" class="img-fluid" style="width:100.0%"> ### Visualisation en time series Evolution de chaque type d’action au cours de la saison pour chaque joueur. <a href="https://github.com/ppadilla-hub/project3">GitHub</a></p>
-</div>
+<p><button class="carousel-control-prev" type="button" data-bs-target="#carouselProject1" data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="visually-hidden">Previous</span> </button> <button class="carousel-control-next" type="button" data-bs-target="#carouselProject1" data-bs-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="visually-hidden">Next</span> </button></p>
 </div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
