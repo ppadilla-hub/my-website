@@ -1,0 +1,16 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## Customer Churn Prediction
+
+- Built a machine learning model predicting churn
+- Tools: Python, Scikit-learn
+
+[GitHub repository](https://github.com/yourusername/project)
+
+## Data Visualization Dashboard
+
+- Built interactive charts using Python

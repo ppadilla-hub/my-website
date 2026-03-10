@@ -1,0 +1,21 @@
+---
+title: "Pablo PADILLA"
+---
+
+# Statisticien indépendant
+
+Bienvenue sur mon home-coded website pro'!
+
+Stimulé par l'analyse et la visualisation de data je propose mes services en:
+
+- Aide/guide à la décision pour le choix de tests statistiques
+
+- Création de modèles spécifiques à vos besoins en:
+
+    - Statistiques inférentiels (différence significatives, choix de prédicteurs)
+
+    - Machine Learning (prédiction par classification ou régression, optimisations, time series)
+
+- Visualisation graphiques / Dashboards
+
+N'hésitez pas à consulter mes projets et mon CV.

@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Pablo PADILLA"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projets
+      - href: cv.qmd
+        text: CV
+      - href: about.qmd
+        text: A propos
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

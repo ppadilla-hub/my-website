@@ -1,0 +1,20 @@
+---
+title: "CV"
+---
+
+# Education
+
+**MSc Data Science**  
+University X — 2024
+
+# Skills
+
+- Python
+- R
+- SQL
+- Machine Learning
+
+# Experience
+
+**Data Analyst Intern**
+Company Y — 2023
