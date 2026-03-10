@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a machine learning model predicting churn\nTools: Python, Scikit-learn\n\nGitHub repository\n\n\n\n\nBuilt interactive charts using Python"
+  },
+  {
+    "objectID": "projects.html#customer-churn-prediction",
+    "href": "projects.html#customer-churn-prediction",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a machine learning model predicting churn\nTools: Python, Scikit-learn\n\nGitHub repository"
+  },
+  {
+    "objectID": "projects.html#data-visualization-dashboard",
+    "href": "projects.html#data-visualization-dashboard",
+    "title": "Projects",
+    "section": "",
+    "text": "Built interactive charts using Python"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Education\nMSc Data Science\nUniversity X — 2024\n\n\nSkills\n\nPython\nR\nSQL\nMachine Learning\n\n\n\nExperience\nData Analyst Intern Company Y — 2023"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pablo PADILLA",
+    "section": "",
+    "text": "Statisticien indépendant\nBienvenue sur mon home-coded website pro’!\nStimulé par l’analyse et la visualisation de data je propose mes services en:\n\nAide/guide à la décision pour le choix de tests statistiques\nCréation de modèles spécifiques à vos besoins en:\n\nStatistiques inférentiels (différence significatives, choix de prédicteurs)\nMachine Learning (prédiction par classification ou régression, optimisations, time series)\n\nVisualisation graphiques / Dashboards\n\nN’hésitez pas à consulter mes projets et mon CV."
+  }
+]
