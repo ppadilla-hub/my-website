@@ -4,14 +4,7 @@
     "href": "projects.html",
     "title": "Mes Projets",
     "section": "",
-    "text": "Mise à disposition au coach d’un dashboard intéractif permettant une meilleur visualisation des touches/points/fautes suivant le type d’action en fonction du match, du joueur ou des différents postes dans l’équipe.\n\n\n\n Statistiques plus spécifique permettant une meilleur évaluation des joueurs lors des matchs.\n\n\n\n Evolution de chaque type d’action au cours de la saison pour chaque joueur.\n\n\n\n\n\n\n\n&lt;div class=\"carousel-item active\"&gt;\n  &lt;img src=\"images/project1.jpg\" class=\"d-block w-100\" alt=\"Visualisation des touches/points/fautes suivant le type d'action en fonction du match, du joueur ou des différents postes dans l'équipe\"&gt;\n&lt;/div&gt;\n&lt;div class=\"carousel-item\"&gt;\n  &lt;img src=\"images/project2.jpg\" class=\"d-block w-100\" alt=\"Statistiques plus spécifique permettant une meilleur évaluation des joueurs lors des matchs.\"&gt;\n&lt;/div&gt;\n&lt;div class=\"carousel-item\"&gt;\n  &lt;img src=\"images/project3.jpg\" class=\"d-block w-100\" alt=\"Evolution de chaque type d'action au cours de la saison pour chaque joueur.\"&gt;\n&lt;/div&gt;\n\n  Previous    Next"
-  },
-  {
-    "objectID": "projects.html#dashboard-powerbi",
-    "href": "projects.html#dashboard-powerbi",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Mise à disposition au coach d’un dashboard intéractif permettant une meilleur visualisation des touches/points/fautes suivant le type d’action en fonction du match, du joueur ou des différents postes dans l’équipe.\n\n\n\n Statistiques plus spécifique permettant une meilleur évaluation des joueurs lors des matchs.\n\n\n\n Evolution de chaque type d’action au cours de la saison pour chaque joueur."
+    "text": "&lt;div class=\"carousel-item active\"&gt;\n  &lt;img src=\"images/project1.jpg\" class=\"d-block w-100\" alt=\"Visualisation des touches/points/fautes suivant le type d'action en fonction du match, du joueur ou des différents postes dans l'équipe\"&gt;\n&lt;/div&gt;\n&lt;div class=\"carousel-item\"&gt;\n  &lt;img src=\"images/project2.jpg\" class=\"d-block w-100\" alt=\"Statistiques plus spécifique permettant une meilleur évaluation des joueurs lors des matchs.\"&gt;\n&lt;/div&gt;\n&lt;div class=\"carousel-item\"&gt;\n  &lt;img src=\"images/project3.jpg\" class=\"d-block w-100\" alt=\"Evolution de chaque type d'action au cours de la saison pour chaque joueur.\"&gt;\n&lt;/div&gt;\n\n  Previous    Next"
   },
   {
     "objectID": "projects.html#project-1",
