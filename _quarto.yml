@@ -16,14 +16,12 @@ website:
 
 format:
   html:
-    metadata:
-      google-site-verification: "I3ZZfZDXn4EOaEaTmDPzl012hO4pySqyaXj5f9dHrbk"
     theme:
       - darkly
       - brand
     css: styles.css
     toc: true
-    # Default SEO metadata (overridden per page)
+    # Default SEO metadata (can be overridden per page)
     seo:
       author: "Pablo PADILLA"
       language: "fr-FR"
@@ -31,6 +29,8 @@ format:
       title: "Pablo PADILLA – Statisticien & Data Scientist"
       description: "Portfolio of Pablo PADILLA, Statisticien, Data Scientist, and Analyst. Projects, CV, and contact info."
       keywords: ["Statisticien", "Data Scientist", "Analyst", "Portfolio", "Pablo PADILLA"]
+    metadata:
+      google-site-verification: I3ZZfZDXn4EOaEaTmDPzl012hO4pySqyaXj5f9dHrbk
 
 # Generate sitemap for Google Search Console
 sitemap: true
