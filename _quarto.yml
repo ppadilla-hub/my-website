@@ -17,7 +17,8 @@ website:
 format:
   html:
     metadata:
-      google-site-verification: "I3ZZfZDXn4EOaEaTmDPzl012hO4pySqyaXj5f9dHrbk"
+      - name: "google-site-verification"
+        content: "I3ZZfZDXn4EOaEaTmDPzl012hO4pySqyaXj5f9dHrbk"
     theme:
       - darkly
       - brand
