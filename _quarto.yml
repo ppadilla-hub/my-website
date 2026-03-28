@@ -29,8 +29,9 @@ format:
       title: "Pablo PADILLA – Statisticien & Data Scientist"
       description: "Portfolio of Pablo PADILLA, Statisticien, Data Scientist, and Analyst. Projects, CV, and contact info."
       keywords: ["Statisticien", "Data Scientist", "Analyst", "Portfolio", "Pablo PADILLA"]
-    metadata:
-      google-site-verification: I3ZZfZDXn4EOaEaTmDPzl012hO4pySqyaXj5f9dHrbk
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="I3ZZfZDXn4EOaEaTmDPzl012hO4pySqyaXj5f9dHrbk" />
 
 # Generate sitemap for Google Search Console
 sitemap: true
