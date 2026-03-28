@@ -1,16 +1,18 @@
----
-title: "Projects"
----
+# Mes Projets
 
-# Projects
+## Dashboard des statistiques d'une saison de volleyball
 
-## Customer Churn Prediction
+::: {.gallery-lightbox}
+![](images/project1.png){fig-alt="Visualisation des touches/points/fautes suivant le type d'action en fonction du match, du joueur ou des différents postes dans l'équipe"}
+![](images/project2.png){fig-alt="Statistiques plus spécifique permettant une meilleur évaluation des joueurs lors des matchs"}
+![](images/project3.png){fig-alt="Evolution de chaque type d'action au cours de la saison pour chaque joueur."}
+:::
 
-- Built a machine learning model predicting churn
-- Tools: Python, Scikit-learn
+## Figures d'articles scientifiques
 
-[GitHub repository](https://github.com/yourusername/project)
-
-## Data Visualization Dashboard
-
-- Built interactive charts using Python
+::: {.gallery-lightbox}
+![](images/scientificArticle1.png){fig-alt="Boxplot"}
+![](images/scientificArticle2.png){fig-alt="Predictions d'un modèle non-linéaire (GAM)"}
+![](images/scientificArticle3.png){fig-alt="Figure de synthèse."}
+![](images/scientificArticle4.png){fig-alt="Graphique modélisant visuellement les intéractions entre prédicteurs."}
+:::

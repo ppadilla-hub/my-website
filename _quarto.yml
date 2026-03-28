@@ -16,11 +16,47 @@ website:
 
 format:
   html:
+    metadata:
+      google-site-verification: "I3ZZfZDXn4EOaEaTmDPzl012hO4pySqyaXj5f9dHrbk"
     theme:
-      - cosmo
+      - darkly
       - brand
     css: styles.css
     toc: true
+    # Default SEO metadata (overridden per page)
+    seo:
+      author: "Pablo PADILLA"
+      language: "fr-FR"
+      robots: "index, follow"
+      title: "Pablo PADILLA – Statisticien & Data Scientist"
+      description: "Portfolio of Pablo PADILLA, Statisticien, Data Scientist, and Analyst. Projects, CV, and contact info."
+      keywords: ["Statisticien", "Data Scientist", "Analyst", "Portfolio", "Pablo PADILLA"]
 
+# Generate sitemap for Google Search Console
+sitemap: true
 
+# Per-page SEO overrides
+page:
+  - file: index.qmd
+    seo:
+      title: "Accueil – Pablo PADILLA"
+      description: "Bienvenue sur le portfolio de Pablo PADILLA, Statisticien et Data Scientist."
+      keywords: ["Statisticien", "Data Scientist", "Portfolio"]
 
+  - file: projects.qmd
+    seo:
+      title: "Projets – Pablo PADILLA"
+      description: "Découvrez les projets analytiques et visualisations graphiques de Pablo PADILLA."
+      keywords: ["Data Projects", "Analytics", "Visualisations", "Graphiques", "Machine Learning", "Pablo PADILLA"]
+
+  - file: cv.qmd
+    seo:
+      title: "CV – Pablo PADILLA"
+      description: "Curriculum Vitae de Pablo PADILLA, expériences académiques et professionnelles en data science et statistiques."
+      keywords: ["CV", "Expériences", "Data Scientist", "Statisticien", "Pablo PADILLA"]
+
+  - file: about.qmd
+    seo:
+      title: "A propos & Contact – Pablo PADILLA"
+      description: "En savoir plus sur Pablo PADILLA, ses compétences et réalisations."
+      keywords: ["À propos", "Biographie", "Data Science", "Analyst", "Statisticien", "Pablo PADILLA"]

@@ -2,20 +2,34 @@
 title: "Pablo PADILLA"
 ---
 
-# Statisticien indépendant
+![](images/profilePic.jpg){fig-align="center" style="border-radius:50%; width:300px;"}
 
-Bienvenue sur mon home-coded website pro'!
+# Bio-Statisticien - Data Scientist
+
+Bienvenue sur mon python-home-coded website pro'!
 
 Stimulé par l'analyse et la visualisation de data je propose mes services en:
 
 - Aide/guide à la décision pour le choix de tests statistiques
 
-- Création de modèles spécifiques à vos besoins en:
+- Production de résultats à l'aide de modèles spécifiques à vos besoins en:
 
-    - Statistiques inférentiels (différence significatives, choix de prédicteurs)
+    - Statistiques inférentiels (différence significatives, prédictions, choix de prédicteurs)
 
-    - Machine Learning (prédiction par classification ou régression, optimisations, time series)
+    - Machine Learning (prédiction par classification ou régression, optimisations, clustering, time series)
+
+    - Deep Learning (reconnaissance d'image ou autre problèmes complexes liée à des données non-structurées)
 
 - Visualisation graphiques / Dashboards
 
-N'hésitez pas à consulter mes projets et mon CV.
+N'hésitez pas à consulter mes [projets](projects.qmd) et mon [CV](cv.qmd).
+
+::: {.columns}
+::: {.column width="50%"}
+[![](images/ResearchGate.png){style="width:200px; border-radius:10px;"}](https://www.researchgate.net/profile/Pablo-Padilla-8)
+:::
+
+::: {.column width="50%"}
+[![](images/linkedin.webp){style="width:200px; border-radius:10px;"}](https://www.linkedin.com/in/pablo-padilla-analyst/)
+:::
+:::

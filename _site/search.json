@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Built a machine learning model predicting churn\nTools: Python, Scikit-learn\n\nGitHub repository\n\n\n\n\nBuilt interactive charts using Python"
-  },
-  {
-    "objectID": "projects.html#customer-churn-prediction",
-    "href": "projects.html#customer-churn-prediction",
-    "title": "Projects",
-    "section": "",
-    "text": "Built a machine learning model predicting churn\nTools: Python, Scikit-learn\n\nGitHub repository"
-  },
-  {
-    "objectID": "projects.html#data-visualization-dashboard",
-    "href": "projects.html#data-visualization-dashboard",
-    "title": "Projects",
-    "section": "",
-    "text": "Built interactive charts using Python"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "CV",
+    "title": "Expériences",
     "section": "",
-    "text": "Education\nMSc Data Science\nUniversity X — 2024\n\n\nSkills\n\nPython\nR\nSQL\nMachine Learning\n\n\n\nExperience\nData Analyst Intern Company Y — 2023"
+    "text": "Académiques\n\n\n\n\nMaster Biodiversité, écologie et évolution \nMuséum National d’Histoire Naturelle (MNHN) de Paris\n2016 - 2018\n\n\n\n\n\n\nDoctorat en Biologie \nUniversité de Liège\n2019 - 2023\n\n\n\n\n\n\nFormation Data Analyst/Scientist (1360 heures)\nTechnifutur\n2024 - 2025\n\n\n\n\nProgrammation\n\nPython\nR\nSQL\nVisualisations graphiques (Seaborn, ggplot2) et dashboard interactifs (plotly, PowerBI)\nStatistiques inférentiels (GLM, Mixed Model, GAM, GEE, PCA, lasso/elastic regression)\nStatistiques prédictifs (regression, classification, time series, clustering)\nMachine Learning (scikit-learn) & Deep Learning (PyTorch, TensorFlow/Keras)\nETL (python: pandas & SQLAlchemy, PowerBI: Power Query)\n\n\n\nProfessionnelles\n\n\n\n\nCollaborateur Scientifique Volontaire\nMNHN, Paris\n2018 - 2019\n\n\n\n\n\n\nChercheur Doctorant\nFond National pour la Recherche Scientifique / Uliège\n2019 - 2023\n\n\n\n\n\n\nChef de projet\nInstitut Scientifique des Services Publics (ISSeP), Cellule Environnement Santé\n2025 - 2026"
   },
   {
     "objectID": "about.html",
@@ -39,6 +18,6 @@
     "href": "index.html",
     "title": "Pablo PADILLA",
     "section": "",
-    "text": "Statisticien indépendant\nBienvenue sur mon home-coded website pro’!\nStimulé par l’analyse et la visualisation de data je propose mes services en:\n\nAide/guide à la décision pour le choix de tests statistiques\nCréation de modèles spécifiques à vos besoins en:\n\nStatistiques inférentiels (différence significatives, choix de prédicteurs)\nMachine Learning (prédiction par classification ou régression, optimisations, time series)\n\nVisualisation graphiques / Dashboards\n\nN’hésitez pas à consulter mes projets et mon CV."
+    "text": "Bio-Statisticien - Data Scientist\nBienvenue sur mon python-home-coded website pro’!\nStimulé par l’analyse et la visualisation de data je propose mes services en:\n\nAide/guide à la décision pour le choix de tests statistiques\nProduction de résultats à l’aide de modèles spécifiques à vos besoins en:\n\nStatistiques inférentiels (différence significatives, prédictions, choix de prédicteurs)\nMachine Learning (prédiction par classification ou régression, optimisations, clustering, time series)\nDeep Learning (reconnaissance d’image ou autre problèmes complexes liée à des données non-structurées)\n\nVisualisation graphiques / Dashboards\n\nN’hésitez pas à consulter mes projets et mon CV."
   }
 ]
