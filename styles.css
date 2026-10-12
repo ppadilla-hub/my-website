@@ -1,1 +1,33 @@
 /* css styles */
+
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2.5rem;
+  width: 100%;
+  max-width: 900px;
+  margin: 3rem auto;
+  align-items: center;
+  justify-items: center;
+}
+
+.logo-grid img {
+  display: block;
+  width: 100%;
+  max-width: 180px;
+  height: 100px;
+  object-fit: contain;
+}
+
+/* Tablettes et téléphones */
+@media (max-width: 600px) {
+  .logo-grid {
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .logo-grid img {
+    max-width: 140px;
+    height: 80px;
+  }
+}

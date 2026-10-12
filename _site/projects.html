@@ -76,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -101,14 +101,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./projects.html" aria-current="page"> 
 <span class="menu-text">Projets</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
-<span class="menu-text">CV</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">A propos</span></a>
-  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -120,19 +112,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#mes-projets" id="toc-mes-projets" class="nav-link active" data-scroll-target="#mes-projets">Mes Projets</a>
-  <ul class="collapse">
-  <li><a href="#dashboard-des-statistiques-dune-saison-de-volleyball" id="toc-dashboard-des-statistiques-dune-saison-de-volleyball" class="nav-link" data-scroll-target="#dashboard-des-statistiques-dune-saison-de-volleyball">Dashboard des statistiques d’une saison de volleyball</a></li>
-  <li><a href="#figures-darticles-scientifiques" id="toc-figures-darticles-scientifiques" class="nav-link" data-scroll-target="#figures-darticles-scientifiques">Figures d’articles scientifiques</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
@@ -141,20 +121,11 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="mes-projets" class="level1">
 <h1>Mes Projets</h1>
-<section id="dashboard-des-statistiques-dune-saison-de-volleyball" class="level2">
-<h2 class="anchored" data-anchor-id="dashboard-des-statistiques-dune-saison-de-volleyball">Dashboard des statistiques d’une saison de volleyball</h2>
 <div class="gallery-lightbox">
-<p><img src="images/project1.png" class="img-fluid" alt="Visualisation des touches/points/fautes suivant le type d'action en fonction du match, du joueur ou des différents postes dans l'équipe"> <img src="images/project2.png" class="img-fluid" alt="Statistiques plus spécifique permettant une meilleur évaluation des joueurs lors des matchs"> <img src="images/project3.png" class="img-fluid" alt="Evolution de chaque type d'action au cours de la saison pour chaque joueur."></p>
-</div>
-</section>
-<section id="figures-darticles-scientifiques" class="level2">
-<h2 class="anchored" data-anchor-id="figures-darticles-scientifiques">Figures d’articles scientifiques</h2>
-<div class="gallery-lightbox">
-<p><img src="images/scientificArticle1.png" class="img-fluid" alt="Boxplot"> <img src="images/scientificArticle2.png" class="img-fluid" alt="Predictions d'un modèle non-linéaire (GAM)"> <img src="images/scientificArticle3.png" class="img-fluid" alt="Figure de synthèse."> <img src="images/scientificArticle4.png" class="img-fluid" alt="Graphique modélisant visuellement les intéractions entre prédicteurs."></p>
+<p><img src="images/AllGraph1.png" class="img-fluid" alt="Exemple de graphique 1"> <img src="images/AllGraph2.png" class="img-fluid" alt="Exemple de graphique 2"></p>
 </div>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -231,7 +202,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/ppadilla-hub\.github\.io\/my-website\/");
+        var filterRegex = new RegExp("https:\/\/pablo-padilla\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

@@ -3,16 +3,13 @@ project:
 
 website:
   title: "Pablo PADILLA"
+  site-url: "https://pablo-padilla.com"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: projects.qmd
         text: Projets
-      - href: cv.qmd
-        text: CV
-      - href: about.qmd
-        text: A propos
 
 format:
   html:
@@ -20,7 +17,7 @@ format:
       - darkly
       - brand
     css: styles.css
-    toc: true
+    toc: False
     # Default SEO metadata (can be overridden per page)
     seo:
       author: "Pablo PADILLA"
@@ -33,8 +30,8 @@ format:
       text: |
         <meta name="google-site-verification" content="I3ZZfZDXn4EOaEaTmDPzl012hO4pySqyaXj5f9dHrbk" />
 
-# Generate sitemap for Google Search Console
-sitemap: true
+# # Generate sitemap for Google Search Console
+# sitemap: true
 
 # Per-page SEO overrides
 page:
@@ -49,15 +46,3 @@ page:
       title: "Projets – Pablo PADILLA"
       description: "Découvrez les projets analytiques et visualisations graphiques de Pablo PADILLA."
       keywords: ["Data Projects", "Analytics", "Visualisations", "Graphiques", "Machine Learning", "Pablo PADILLA"]
-
-  - file: cv.qmd
-    seo:
-      title: "CV – Pablo PADILLA"
-      description: "Curriculum Vitae de Pablo PADILLA, expériences académiques et professionnelles en data science et statistiques."
-      keywords: ["CV", "Expériences", "Data Scientist", "Statisticien", "Pablo PADILLA"]
-
-  - file: about.qmd
-    seo:
-      title: "A propos & Contact – Pablo PADILLA"
-      description: "En savoir plus sur Pablo PADILLA, ses compétences et réalisations."
-      keywords: ["À propos", "Biographie", "Data Science", "Analyst", "Statisticien", "Pablo PADILLA"]

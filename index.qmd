@@ -1,35 +1,69 @@
 ---
-title: "Pablo PADILLA"
+title: ""
 ---
 
-![](images/profilePic.jpg){fig-align="center" style="border-radius:50%; width:300px;"}
+::: {style="min-height: 90vh; min-height: 90svh; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;"}
 
-# Bio-Statisticien - Data Scientist
+# Pablo PADILLA
 
-Bienvenue sur mon python-home-coded website pro'!
+## Biostatisticien
 
-Stimulé par l'analyse et la visualisation de data je propose mes services en:
+### Accompagnement & Formations
 
-- Aide/guide à la décision pour le choix de tests statistiques
+[contact@pablo-padilla.com](mailto:contact@pablo-padilla.com)
 
-- Production de résultats à l'aide de modèles spécifiques à vos besoins en:
+:::
 
-    - Statistiques inférentiels (différence significatives, prédictions, choix de prédicteurs)
+::: {style="min-height: 65vh; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 3rem 0;"}
 
-    - Machine Learning (prédiction par classification ou régression, optimisations, clustering, time series)
-
-    - Deep Learning (reconnaissance d'image ou autre problèmes complexes liée à des données non-structurées)
-
-- Visualisation graphiques / Dashboards
-
-N'hésitez pas à consulter mes [projets](projects.qmd) et mon [CV](cv.qmd).
+## Ils m'ont fait confiance
 
 ::: {.columns}
-::: {.column width="50%"}
-[![](images/ResearchGate.png){style="width:200px; border-radius:10px;"}](https://www.researchgate.net/profile/Pablo-Padilla-8)
+::: {.column width="33.33%"}
+![](images/ISSeP.png){fig-align="center" width="150px"}
+:::
+::: {.column width="33.33%"}
+![](images/MNHN.png){fig-align="center" width="150px"}
+:::
+::: {.column width="33.33%"}
+![](images/FNRS.png){fig-align="center" width="150px"}
+:::
 :::
 
-::: {.column width="50%"}
-[![](images/linkedin.webp){style="width:200px; border-radius:10px;"}](https://www.linkedin.com/in/pablo-padilla-analyst/)
+::: {.columns}
+::: {.column width="33.33%"}
+![](images/Uliege.png){fig-align="center" width="150px"}
 :::
+::: {.column width="33.33%"}
+![](images/Coventry.png){fig-align="center" width="150px"}
+:::
+::: {.column width="33.33%"}
+![](images/EmbourgVBC.png){fig-align="center" width="150px"}
+:::
+:::
+
+:::
+
+
+::: {style="min-height: 65vh; display: flex; flex-direction: column; justify-content: center; text-align: center;"}
+
+## À propos
+
+On attend des chercheurs qu’ils maîtrisent aussi bien leur discipline que la statistique et la programmation. Pourtant, nous n’allons pas chez le pharmacien pour un diagnostic, ni chez le médecin pour ses médicaments.
+
+Issu de la recherche scientifique, j’ai moi-même été confronté à ces défis. J’ai été surpris de découvrir la diversité des tests statistiques et la richesse de leurs applications, et j’ai progressivement trouvé dans la programmation un moyen de gagner en autonomie et en efficacité, bien au-delà du seul cadre scientifique.
+
+Aujourd’hui, je mets ces compétences au service des chercheurs afin de leur permettre de tirer pleinement parti de leurs données tout en se consacrant à leurs questions de recherche.
+
+Retrouvez quelques exemples de mes travaux et collaboration dans mes [Projets](projects.qmd).
+
+:::
+
+::: {style="min-height: 45vh; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;"}
+
+## Me retrouver en ligne
+
+[![](images/googleScholar.webp){style="width: 48px; margin: 0 18px;"}](https://scholar.google.com/citations?user=vUUMNRMAAAAJ&hl=fr)
+[![](images/linkedin.webp){style="width: 48px; margin: 0 18px;"}](https://www.linkedin.com/in/pablo-padilla-analyst/)
+
 :::

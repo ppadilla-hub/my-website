@@ -1,23 +1,44 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Expériences",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Mes Projets",
     "section": "",
-    "text": "Académiques\n\n\n\n\nMaster Biodiversité, écologie et évolution \nMuséum National d’Histoire Naturelle (MNHN) de Paris\n2016 - 2018\n\n\n\n\n\n\nDoctorat en Biologie \nUniversité de Liège\n2019 - 2023\n\n\n\n\n\n\nFormation Data Analyst/Scientist (1360 heures)\nTechnifutur\n2024 - 2025\n\n\n\n\nProgrammation\n\nPython\nR\nSQL\nVisualisations graphiques (Seaborn, ggplot2) et dashboard interactifs (plotly, PowerBI)\nStatistiques inférentiels (GLM, Mixed Model, GAM, GEE, PCA, lasso/elastic regression)\nStatistiques prédictifs (regression, classification, time series, clustering)\nMachine Learning (scikit-learn) & Deep Learning (PyTorch, TensorFlow/Keras)\nETL (python: pandas & SQLAlchemy, PowerBI: Power Query)\n\n\n\nProfessionnelles\n\n\n\n\nCollaborateur Scientifique Volontaire\nMNHN, Paris\n2018 - 2019\n\n\n\n\n\n\nChercheur Doctorant\nFond National pour la Recherche Scientifique / Uliège\n2019 - 2023\n\n\n\n\n\n\nChef de projet\nInstitut Scientifique des Services Publics (ISSeP), Cellule Environnement Santé\n2025 - 2026"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "Mes Projets"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Pablo PADILLA",
     "section": "",
-    "text": "Bio-Statisticien - Data Scientist\nBienvenue sur mon python-home-coded website pro’!\nStimulé par l’analyse et la visualisation de data je propose mes services en:\n\nAide/guide à la décision pour le choix de tests statistiques\nProduction de résultats à l’aide de modèles spécifiques à vos besoins en:\n\nStatistiques inférentiels (différence significatives, prédictions, choix de prédicteurs)\nMachine Learning (prédiction par classification ou régression, optimisations, clustering, time series)\nDeep Learning (reconnaissance d’image ou autre problèmes complexes liée à des données non-structurées)\n\nVisualisation graphiques / Dashboards\n\nN’hésitez pas à consulter mes projets et mon CV."
+    "text": "contact@pablo-padilla.com"
+  },
+  {
+    "objectID": "index.html#biostatisticien",
+    "href": "index.html#biostatisticien",
+    "title": "Pablo PADILLA",
+    "section": "",
+    "text": "contact@pablo-padilla.com"
+  },
+  {
+    "objectID": "index.html#ils-mont-fait-confiance",
+    "href": "index.html#ils-mont-fait-confiance",
+    "title": "Pablo PADILLA",
+    "section": "Ils m’ont fait confiance",
+    "text": "Ils m’ont fait confiance"
+  },
+  {
+    "objectID": "index.html#à-propos",
+    "href": "index.html#à-propos",
+    "title": "Pablo PADILLA",
+    "section": "À propos",
+    "text": "À propos\nOn attend des chercheurs qu’ils maîtrisent aussi bien leur discipline que la statistique et la programmation. Pourtant, nous n’allons pas chez le pharmacien pour un diagnostic, ni chez le médecin pour ses médicaments.\nIssu de la recherche scientifique, j’ai moi-même été confronté à ces défis. J’ai été surpris de découvrir la diversité des tests statistiques et la richesse de leurs applications, et j’ai progressivement trouvé dans la programmation un moyen de gagner en autonomie et en efficacité, bien au-delà du seul cadre scientifique.\nAujourd’hui, je mets ces compétences au service des chercheurs afin de leur permettre de tirer pleinement parti de leurs données tout en se consacrant à leurs questions de recherche.\nRetrouvez quelques exemples de mes travaux et collaboration dans mes Projets."
+  },
+  {
+    "objectID": "index.html#me-retrouver-en-ligne",
+    "href": "index.html#me-retrouver-en-ligne",
+    "title": "Pablo PADILLA",
+    "section": "Me retrouver en ligne",
+    "text": "Me retrouver en ligne"
   }
 ]
