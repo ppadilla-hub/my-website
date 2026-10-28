@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pablo-padilla.com/projects.html</loc>
-    <lastmod>2026-10-12T11:10:07.773Z</lastmod>
+    <loc>https://pablo-padilla.com/tarifs.html</loc>
+    <lastmod>2026-10-28T14:16:40.243Z</lastmod>
   </url>
   <url>
     <loc>https://pablo-padilla.com/index.html</loc>
-    <lastmod>2026-10-16T07:10:32.980Z</lastmod>
+    <lastmod>2026-10-28T14:15:37.698Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pablo-padilla.com/projects.html</loc>
+    <lastmod>2026-10-28T14:09:35.854Z</lastmod>
   </url>
 </urlset>

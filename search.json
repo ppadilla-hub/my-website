@@ -1,10 +1,38 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Mes Projets",
+    "objectID": "tarifs.html",
+    "href": "tarifs.html",
+    "title": "Pablo PADILLA",
     "section": "",
-    "text": "Mes Projets"
+    "text": "Contrairement à une simple prestation de sous-traitance, l’accompagnement permet d’obtenir des résultats adaptés à vos attentes, tout en comprenant la démarche qui a permis de les obtenir et en vous donnant les clés pour les communiquer avec clarté et aisance.\n\nRéflexion sur les enjeux afin d’extraire ou d’optimiser (feature engineering) les variables et facteurs d’intérêt\nNettoyage de données et automatisation de tâches d’acquisition\nChoix et réalisation des analyses statistiques\nProduction de graphiques et tableaux\nPoint hebdomadaire par e-mail sur l’état d’avancement du projet\nPlanification de réunions sur toute la durée du projet, selon vos disponibilités (soirées et week-ends compris)\n\nTarif : À partir de 250 € par jour"
+  },
+  {
+    "objectID": "tarifs.html#accompagnement-statistique",
+    "href": "tarifs.html#accompagnement-statistique",
+    "title": "Pablo PADILLA",
+    "section": "",
+    "text": "Contrairement à une simple prestation de sous-traitance, l’accompagnement permet d’obtenir des résultats adaptés à vos attentes, tout en comprenant la démarche qui a permis de les obtenir et en vous donnant les clés pour les communiquer avec clarté et aisance.\n\nRéflexion sur les enjeux afin d’extraire ou d’optimiser (feature engineering) les variables et facteurs d’intérêt\nNettoyage de données et automatisation de tâches d’acquisition\nChoix et réalisation des analyses statistiques\nProduction de graphiques et tableaux\nPoint hebdomadaire par e-mail sur l’état d’avancement du projet\nPlanification de réunions sur toute la durée du projet, selon vos disponibilités (soirées et week-ends compris)\n\nTarif : À partir de 250 € par jour"
+  },
+  {
+    "objectID": "tarifs.html#conseils-et-aide-ponctuelle",
+    "href": "tarifs.html#conseils-et-aide-ponctuelle",
+    "title": "Pablo PADILLA",
+    "section": "Conseils et aide ponctuelle",
+    "text": "Conseils et aide ponctuelle\nUn projet scientifique est semé d’embûches. Pouvoir compter sur une personne de confiance permet de se concentrer pleinement sur l’essentiel, c’est-à-dire faire avancer ses recherches.\n\nConseils dans le choix de la méthodologie\nAide à la compréhension des analyses ou des résultats\nAccompagnement dans l’utilisation de R ou Python\n\nTarif : À partir de 40 € par heure"
+  },
+  {
+    "objectID": "tarifs.html#formation",
+    "href": "tarifs.html#formation",
+    "title": "Pablo PADILLA",
+    "section": "Formation",
+    "text": "Formation\nDes formations adaptées à vos besoins pour développer votre autonomie en statistique et en programmation.\n\nStatistiques appliquées à la recherche ou aux analyses fréquemment rencontrées dans vos projets\nInitiation et perfectionnement en R ou Python\nAnalyse et visualisation de données\nFormation individuelle ou collective\n\nTarif : À partir de 500 € par jour pour un groupe de 5 personnes"
+  },
+  {
+    "objectID": "tarifs.html#modalités-de-facturation",
+    "href": "tarifs.html#modalités-de-facturation",
+    "title": "Pablo PADILLA",
+    "section": "Modalités de facturation",
+    "text": "Modalités de facturation\nLes modalités de facturation dépendent de la nature de la prestation :\nAccompagnement statistique : devis personnalisé en fonction du travail à réaliser. Prestation ponctuelle : facturation horaire ou forfaitaire selon le besoin. Formation : tarif adapté au format, à la durée et au nombre de participants.\nLes besoins sont définis en amont afin de convenir de modalités adaptés à votre projet.\nTous les tarifs indiqués sur cette page sont exprimés hors TVA (HTVA).\n\nDiscutons de votre projet\nVous souhaitez gagner du temps dans vos recherches sans déléguer la maîtrise de votre projet, trouver une solution rapide pour finaliser votre article ou tout simplement gagner en autonomie dans vos analyses ?\nMe contacter"
   },
   {
     "objectID": "index.html",
@@ -40,5 +68,12 @@
     "title": "Pablo PADILLA",
     "section": "Me retrouver en ligne",
     "text": "Me retrouver en ligne"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Mes Projets",
+    "section": "",
+    "text": "Mes Projets"
   }
 ]
